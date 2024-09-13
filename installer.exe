@@ -1,0 +1,1 @@
+cat image.jpg program.exe > combined.jpg
