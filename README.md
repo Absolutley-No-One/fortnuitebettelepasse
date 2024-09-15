@@ -1,1 +1,1 @@
-#Flipper Zero rickroll bomb#
+#Flipper Zero rickroll bomb
