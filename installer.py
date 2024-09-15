@@ -1,6 +1,5 @@
-import webbrowser
+import time
 
-for i (1, 1000):
-
-# Open URL in the default web browser
-  webbrowser.open(url)
+for i in range(1000):
+  open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+  time.sleep(0.001)
